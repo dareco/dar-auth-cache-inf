@@ -1,2 +1,1 @@
-# dar-auth-cache-inf
-DAR auth cache service interface
+DAR auth cache inf
